@@ -33,6 +33,7 @@ function saveData() {
 	localStorage.setItem("@listOfLinksOfFilms", JSON.stringify(listLinkFilms));
 }
 
+// Carregando os Dados no Local Storage
 function dataLoad() {
 	var listOfLinks = JSON.parse(localStorage.getItem("@listOfLinksOfFilms"));
 

@@ -6,7 +6,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center"><a href="https://micaiasdev.github.io/alura_flix/">Acesse o Projeto Clicando aqui</a></p>
+<p align="center"><a href="https://micaiasdev.github.io/alura_flix/" target="_blank">Acesse o Projeto Clicando aqui</a></p>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
